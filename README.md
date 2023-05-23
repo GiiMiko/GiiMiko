@@ -1,8 +1,8 @@
 ## Ferramentas e Tecnologias
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="40" height="40"/>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" width="40" height="40"/>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="40" height="40"/>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="40" height="40"/>
 
 ## Contatos:
 

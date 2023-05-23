@@ -1,7 +1,7 @@
 ## Ferramentas e Tecnologias
 
 <img src="https://icons8.com/icon/65231/blender-3d" width="40" height="40"/>
-<img src="https://icons8.com/icon/45490/c-sharp-logo-2" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="40" height="40"/>
 <img src="https://icons8.com/icon/IPzemd2v4Ubj/unity" width="40" height="40"/>
 
 ## Contatos:

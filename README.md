@@ -7,25 +7,25 @@
 <samp>
   <p align="center">
      </a>
-        <a href="https://twitter.com/huotes/" target="_blank" style="text-decoration: none;">
+        <a href="https://twitter.com/GiManzano/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Twitter-1a1b27?style=for-the-badge&logo=twitter&logoColor=9644CD" alt="Itch.io">
     </a>
-    <a href="https://www.linkedin.com/in/athosaurelio/" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/giovana-manzano-guimarães-5b7a8316b/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="Linkedin">
     </a>
-    <a href="https://www.instagram.com/huotes" target="_blank" style="text-decoration: none;">
+    <a href="https://www.instagram.com/gii_miko" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=9644CD" alt="Behance">
     </a>
      </a>
-        <a href="https://https://www.twitch.tv/huotes" target="_blank" style="text-decoration: none;">
+        <a href="https://https://www.twitch.tv/lumiargames" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Twitch-1a1b27?style=for-the-badge&logo=twitch&logoColor=9644CD" alt="Itch.io">
     </a>
     </a>
-        <a href="https://www.youtube.com/channel/UCgrzS3MuQWp7qTiw5YwuceA" target="_blank" style="text-decoration: none;">
+        <a href="https://www.youtube.com/channel/@GiiMiko" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Youtube-1a1b27?style=for-the-badge&logo=Youtube&logoColor=9644CD" alt="Itch.io">
     </a>
     </a>
-        <a href="https://huotes.itch.io/" target="_blank" style="text-decoration: none;">
+        <a href="https://giimiko.itch.io/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/itch.io-1a1b27?style=for-the-badge&logo=itch.io&logoColor=9644CD" alt="Itch.io">
     </a>
   </p>
@@ -49,14 +49,14 @@
   />
 </picture>
 
-<p>Meu nome é Athos Aurélio, sou Técnico em Análise e desenvolvimento de sistemas – ETEC. E também programador de jogos.</p>
-<p>Atuo na área de programação de jogos desde meus 15 anos e atualmente faço jogos sobre encomenda.</p>
-<p>Também dou aulas sobre programação voltada para criação de jogos utilizando a linguagem GML.</p>
+<p>Meu nome é Giovana Manzano Guimarães, atuo na área de Ilustração Digital, Social Media e Marketing Digital. E agora na de programação de jogos digitais.</p>
+<p>Atuo na área de Marketing Digital e Ilustração Digital desde meus 20 anos e atualmente faço Social Media e Artes Digitais.</p>
+<p>Estou estudando linguagem de programação CSharp, Unity, GDevelop5, Pixel Art e Blender.</p>
 
 <div align="center">
-<a href="https://github.com/huotes">
-<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huotes&layout=compact&langs_count=7&theme=synthwave"/>
-<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=huotes&theme=synthwave" />
+<a href="https://github.com/GiiMiko">
+<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiiMiko&layout=compact&langs_count=7&theme=synthwave"/>
+<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=GiiMiko&theme=synthwave" />
 </div>
 
 
@@ -66,7 +66,7 @@
 <br />
 
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=huotes&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=GiiMiko&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
 </div>
   
 <div align="center">

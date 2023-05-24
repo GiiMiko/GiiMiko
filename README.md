@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=9644CD" alt="Behance">
     </a>
      </a>
-        <a href="https://https://www.twitch.tv/lumiargames" target="_blank" style="text-decoration: none;">
+        <a href="https://www.twitch.tv/lumiargames" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Twitch-1a1b27?style=for-the-badge&logo=twitch&logoColor=9644CD" alt="Itch.io">
     </a>
     </a>

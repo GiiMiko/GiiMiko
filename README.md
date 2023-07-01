@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/giovana-manzano-guimarães-5b7a8316b/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="Linkedin">
     </a>
-    <a href="https://www.instagram.com/gii_miko" target="_blank" style="text-decoration: none;">
+    <a href="https://www.instagram.com/lumiar.studios/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=9644CD" alt="Behance">
     </a>
      </a>
